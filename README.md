@@ -1,5 +1,8 @@
-# email for login 
+After Download or Clone ,
+Open Cmd ,
+and write : npm install
 
+email for login 
 email: eve.holt@reqres.in
 pass: cityslicka
 
