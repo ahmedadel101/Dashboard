@@ -1,3 +1,13 @@
+# email for login 
+
+email: eve.holt@reqres.in
+pass: cityslicka
+
+this mail already in api !!
+
+
+
+
 # todo-list
 
 ## Project setup
